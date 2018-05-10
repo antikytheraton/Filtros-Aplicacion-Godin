@@ -44,4 +44,4 @@ function validarInput(input) {
 }
 
 
-console.log(validarInput("AESA900921HDFRNR01"))
+console.log(validarInput("CURP"))
